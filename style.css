@@ -1,0 +1,59 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(209, 8, 41);
+    text-align: center;
+    background: url(bluebike.jpeg);
+    padding-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-size: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+
+    
+  }
+
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    font-style: italic;  
+    padding-top: 1%;
+  }
+
+  form {
+    padding-top: 10%;
+    text-align: justify;
+    
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    font-size: large large;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+  ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
